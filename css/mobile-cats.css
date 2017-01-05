@@ -1,0 +1,474 @@
+/* category page*/
+  #gh-title{
+    text-align: left;
+  }
+#TopPromoArea{
+  display: none;
+}
+#LeftPanel > table.v4acpcont > tbody > tr:nth-child(2) > td > table > tbody > tr > td > div > div.link > a{
+  color: #000;
+}
+.fpcc .countClass, .fpcc .matchClass, .fpcc span.keywordClass, span.pdmt .label{
+  color: #000 !important;
+}
+#LeftPanel .v4acp_head, #LeftPanel .lcat .cnt, .s_recat li span {
+  display: none;
+}
+#LeftPanel > table.v4acpcont > tbody > tr > td > table > tbody > tr > td > div > ul > li > a{
+  color: #000 !important;
+  line-height: 26px;
+}
+
+#LeftPanel > table.v4acpcont > tbody > tr > td > table > tbody > tr > td > div > ul > ul > ul > li > a{
+  color: #000 !important;
+  line-height: 26px;
+  font-size: 12px;
+  color: #444 !important;
+
+}
+#LeftPanel .lcat .lev1 .lev2 li {
+  display: block;
+  margin: 0;
+}
+#LeftPanel table.v4midBox tr.v4acp_mid td.v4mid, .r3_t, .r3_t b, .r3_bl, .r3_bl b {
+  background: none;
+}
+#LeftPanel table.v4midBox, .r3_c, .r3_t i {
+  border: 0;
+}
+.r3_t, .r3_t b, .r3_bl, .r3_bl b {
+  background: none;
+}
+body, td, .g-std{
+  font-family: Raleway ,Arial !important;
+}
+.cat-banners {
+  text-align: center;
+  color: #45132c;
+  font-size: 14px;
+  line-height: 1.5em;
+  border-bottom: 2px dashed #c3937f;
+  padding: 20px 127px;
+  margin: 0px 30px 30px 30px;
+  margin: 0 auto;
+}
+.cat-banners .hobby-headings {
+  text-align: center;
+}
+.cat-banners a:link, .cat-banners a:active, .cat-banners a:visited {
+  font-weight: bold;
+  color: #45132c !important;
+}
+table.wrap-center {
+  margin-top: -15px;
+}
+#LeftPanel > table.v4acpcont > tbody > tr:nth-child(2) > td > table > tbody > tr > td > div > a,#msg,#CentralArea > div.v4stabl{
+  display: none;
+}
+.right-panel {
+  position: relative;
+}
+.whiter-rcp, #glbfooter {
+  margin: 0 auto;
+  max-width: 1900px;
+  /*border: 0;*/
+    margin-top: 20px;
+    -webkit-box-shadow: -1px 2px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 2px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 2px 11px 0px rgba(0,0,0,0.5);
+}
+#body > div.pagewidth > div > div > div > table.tb_v4bc > tbody > tr > td:nth-child(2) > div > a:nth-child(3),#body > div.pagewidth > div > div > div > table.tb_v4bc > tbody > tr > td:nth-child(2) > div > a:nth-child(1),.stBadge-text,.mbg-nw,.mbg-l,.stBadge-text,#storercp_mide > div > div > table > tbody > tr:nth-child(3) > td:nth-child(1) > a,#storercp_mide > div > div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a,#v4-127{
+  font-size: 14px;
+}
+.whiter-rcp .whiter-mid {
+  margin-top: 16px;
+}
+.whiter-rcp .whiter-s_nf, .whiter-rcp .whiter-s_nf .whiter-w {
+  background: none!important;
+}
+.stBadge-midContent td {
+  padding-left: 0px!important;
+}
+.r3_hm, .r3_c, .r3_s, .rs_box, .ctrlbr {
+  border: 0;
+}
+.r3_c {
+  position: relative;
+  background: url(../images/brush-large-thick.jpg) no-repeat top;
+}
+.fpcc span.keywordClass {
+  background: none;
+}
+td#CentralArea div.v4stabl {
+  position: absolute;
+  right: 0px;
+  top: 10px;
+  z-index: 9;
+}
+.subtitle{
+  display: none;
+}
+
+.pagewidth > div > div > div > table:nth-child(5) > tbody > tr > td > table, #gh, .tb_v4bc {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.fpcc .countClass, td#CentralArea div.v4stabl *, .ctrlbr *, .cmsg, .fpcc .matchClass, .fpcc span.keywordClass, .cmpBr * {
+  font-weight: normal;
+  font-size: 12px;
+}
+.cmpBr {
+  background: none;
+  border: 0;
+  position: absolute;
+  right: 0px;
+}
+.s_recat {
+  display: none;
+}
+.grid td.left {
+  border: 0;
+}
+.lcat .ttl{
+  text-indent: -9999px;
+  line-height: 0;
+}
+.lcat .ttl:after{
+  content: "Shop Categories";
+  text-transform: uppercase;
+  color: #fff !important;
+  background-color: #000;
+  padding:10px 20px;
+  text-align: center;
+  text-indent: 0;
+  display: block;
+  line-height: initial;
+}
+#LeftPanel > table.v4acpcont > tbody > tr > td > table > tbody > tr > td > div > ul > ul > li > a{
+  text-decoration: none !important;
+  color: #000 !important;
+  line-height: 35px;
+  font-weight: normal !important;
+
+}
+#LeftPanel > table.v4acpcont > tbody > tr > td > table > tbody > tr > td > div > ul > ul > li > a:hover{
+  color: #ff0000 !important;
+}
+div.itemseparator, .ii, img[src="http://q.ebaystatic.com/aw/pics/bin_15x54.gif"], td.basics, table.gallery table.fixed div.time2, table.gallery .mi {
+  display: none;
+}
+table.gallery {
+  text-align: center;
+  position: relative;
+  background: url("../images/dots-small.gif") left bottom repeat-x;
+  height: 345px;
+  margin: 20px;
+  width: 100%;
+}
+table.gallery div.ttl a {
+  color: #000 !important;
+  font-size: 14px;
+  line-height: 1.5em;
+  padding-bottom: 20px;
+}
+table.gallery div.ttl{
+  margin-bottom: 20px;
+}
+table.gallery table.fixed {
+  margin-top: 5px;
+  text-align: left;
+  width: 100%;
+  padding-bottom: 15px;
+}
+table.gallery table.fixed .bin {
+  font-size: 21px;
+  font-weight: bold;
+  color: #ff0000 !important;
+  padding-left: 10px;
+}
+.ppugv{
+  padding-left: 10px;
+}
+table.gallery div.subtitle, table.gallery div.ttl {
+  text-align: left;
+  padding: 0 10px;
+}
+#CentralArea {
+  position: relative;
+}
+.bpmsg {
+  display: none;
+}
+.ctrlbr {
+  display: block;
+}
+.ctrlbr span {
+  font-size: 13px;
+}
+.ctrlbr span.cur {
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #000 !important;
+}
+div.fpcc {
+  float: left;
+}
+.fpcc .countClass, .fpcc span.keywordClass, td#CentralArea div.v4stabl b, span.pdmt .cur {
+  font-weight: bold;
+}
+td#CentralArea div.dynpg, table.pgbc, .r3_t i, .r3_bl i {
+  border: 0;
+  background: 0;
+}
+.whiter-rcp .whiter-s_nf {
+  background: #eeeae1;
+}
+.dynpg .next a, .dynpg td.pages a.enabled:visited {
+  color: #444 !important;
+}
+.stBadge {
+  margin-top: 0;
+}
+img[src="http://q.ebaystatic.com/aw/pics/s.gif"], .stBadge-accent {
+  display: none;
+}
+.clear {
+  clear: both;
+}
+div.cmpb, .sifExp {
+  display: none;
+}
+
+
+/*****************navigation************************/
+ /* CSS Document */
+
+  /* Display Dropdown when clicked on Parent Lable */
+  [id^=drop]:checked + ul {
+    display: block;
+  }
+
+.toggle,
+[id^=drop] {
+  display: none;
+}
+
+/* Giving a background-color to the nav container. */
+nav { 
+  margin:0;
+  padding: 0;
+  background-color: #fff;
+}
+
+
+
+/* Since we'll have the "ul li" "float:left"
+ * we need to add a clear after the container. */
+
+nav:after {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+/* Removing padding, margin and "list-style" from the "ul",
+ * and adding "position:reltive" */
+nav ul {
+  float: right;
+  padding:0;
+  margin:0;
+  list-style: none;
+  position: relative;
+  }
+  
+/* Positioning the navigation items inline */
+nav ul li {
+  margin: 0px;
+  display:inline-block;
+  float: left;
+  background-color:#5bc4b6;
+  }
+  .nav_2 nav ul li {
+  background-color: #D22F30 !important;
+  }
+
+/* Styling the links */
+nav a {
+  display:block;
+  padding:14px 20px;  
+  color:#FFF !important;
+  font-size:17px;
+  text-decoration:none;
+}
+
+
+nav ul li ul li:hover { background: #000000; }
+
+/* Background color change on Hover */
+nav a:hover { 
+  background-color: #000000; 
+}
+.mobile-cat label a:hover{
+  background-color: transparent !important;
+}
+
+/* Hide Dropdowns by Default
+ * and giving it a position of absolute */
+nav ul ul {
+  display: none;
+  position: absolute; 
+  /* has to be the same number as the "line-height" of "nav a" */
+  top: 60px; 
+}
+  
+/* Display Dropdowns on Hover */
+nav ul li:hover > ul {
+  display:inherit;
+}
+  
+/* Fisrt Tier Dropdown */
+nav ul ul li {
+  width:170px;
+  float:none;
+  display:list-item;
+  position: relative;
+}
+
+/* Second, Third and more Tiers 
+ * We move the 2nd and 3rd etc tier dropdowns to the left
+ * by the amount of the width of the first tier.
+*/
+nav ul ul ul li {
+  position: relative;
+  top:-60px;
+  /* has to be the same number as the "width" of "nav ul ul li" */ 
+  left:170px; 
+}
+
+.main{
+  background-color: #000 !important;
+}  
+
+
+
+/* Media Queries
+--------------------------------------------- */
+
+@media all and (max-width : 1050px) {
+
+
+
+  nav {
+    margin: 0;
+  }
+
+  /* Hide the navigation menu by default */
+  /* Also hide the  */
+  .toggle ,
+  .menu {
+    display: none;
+  }
+  .toggle +a{
+    display: block;
+  }
+
+  /* Stylinf the toggle lable */
+  .toggle {
+    display: block;
+  background: #5bc4b6 url("../images/menu.png") no-repeat 6px center;
+    padding:14px 47px;  
+    color:#FFF;
+    font-size:17px;
+    text-decoration:none;
+    border:none;
+  }
+  /* Change menu item's width to 100% */
+  nav ul li {
+    display: block;
+    width: 100%;
+    }
+
+  nav ul ul .toggle,
+  nav ul ul a {
+    padding: 0 40px;
+  }
+
+  nav ul ul ul a {
+    padding: 0 80px;
+  }
+
+  nav a:hover,
+  nav ul ul ul a {
+    background-color: #000000;
+  }
+  
+  nav ul li ul li .toggle,
+  nav ul ul a,
+  nav ul ul ul a{
+    padding:14px 20px;  
+    color:#FFF !important;
+    font-size:17px; 
+  }
+  
+  
+  nav ul li ul li .toggle,
+  nav ul ul a {
+    background-color: #212121; 
+  }
+
+  /* Hide Dropdowns by Default */
+  nav ul ul {
+    float: none;
+    position:static;
+    color: #ffffff;
+    /* has to be the same number as the "line-height" of "nav a" */
+  }
+    
+  /* Hide menus on hover */
+  nav ul ul li:hover > ul,
+  nav ul li:hover > ul {
+    display: none;
+  }
+    
+  /* Fisrt Tier Dropdown */
+  nav ul ul li {
+    display: block;
+    width: 100%;
+  }
+
+  nav ul ul ul li {
+    position: static;
+    /* has to be the same number as the "width" of "nav ul ul li" */ 
+
+  }
+
+}
+
+@media all and (max-width : 330px) {
+
+  nav ul li {
+    display:block;
+    width: 94%;
+  }
+
+}
+.mobile-cat{
+  display: none;
+}
+
+@media screen and (max-width: 1234px) {
+ #p-categories li a {
+        padding: 18px 9px;
+  }
+@media screen and (max-width: 1045px){
+ .mobile-cat {
+    display: block;
+   
+}
+
+ }
+
+

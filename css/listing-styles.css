@@ -1,0 +1,330 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+a{
+  text-decoration: none;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+  font-size: 16px;
+  font-family: Raleway,Arial,sans-serif;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+  .wrapper{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+/* ~~~~~~~~~~header~~~~~~~~~~ */
+.logo{
+  display: block;
+  width: 100%;
+  max-width: 570px;
+  margin: 30px auto;
+}
+.logo img{
+  width: 100%;
+}
+.header{
+  background-color: #3f3e40;
+  padding: 10px 0;
+}
+/* ~~~~~~~~~~general~~~~~~~~~~ */
+.per-gallery{
+  width: 49%;
+  max-width: 620px;
+  float: left;
+}
+.right-info{
+  float: right;
+  width: 49%;
+  max-width: 560px;
+}
+.info{
+  margin-top: 30px;
+}
+.item-title{
+  color: #3f3e40;
+    font-size: 24px;
+    text-align: center;
+    line-height: 33px;
+}
+.item-price{
+      font-size: 24px;
+    color: #168883;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+    border-top: 1px solid #168883;
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 40px;
+}
+.promo-banners{
+  margin-top: 30px;
+}
+.promo-banners>div{
+float: left;
+display: inline;
+}
+.promo-banners>div:hover{
+    webkit-box-shadow: 1px 2px 11px 2px rgba(150, 150, 150, 0.5);
+    -moz-box-shadow: 1px 2px 11px 2px rgba(150, 150, 150, 0.5);
+    box-shadow: 1px 2px 11px 2px rgba(150, 150, 150, 0.5);
+}
+.promo-banners .small-b{
+      margin-left: 1.5%;
+    margin-bottom: 3.2%;
+    margin-right: 1%;
+    width: 34%;
+}
+.promo-banners .big-b{
+  width: 27%;
+  margin-right: 1%;
+}
+.promo-banners .small-b img{
+  width: 100%;
+  max-width: 425px;
+}
+.promo-banners .big-b img{
+  width: 100%;
+  max-width: 323px;
+}
+/* ~~~~~~~~~~top navigation~~~~~~~~~~ */
+.sale-cat{
+  background-color: #5bc4b6;
+}
+.sale-cat>a:hover{
+  background-color: #5bc4b6 !important;
+}
+.category-pic{
+  float: right;
+}
+#p-categories > li:nth-child(5) > ul > div{
+  height: 800px;
+}
+.top-navigation{
+  border-top: 1px solid #e3e0e0;
+  margin-top: 10px;
+}
+#p-categories {
+  position: relative;
+  z-index: 99999;
+ /* background:#ebeaea;*/
+ max-width:1200px;
+  height: auto;
+  min-height: 48px;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 0;
+
+  
+}
+#p-categories>li {
+  float: left;
+  list-style-type: none;
+  padding: 0;
+  margin-left: 1.8%;
+}
+#p-categories li a {
+  display: block;
+  color: #3f3e40 !important;
+  font-size: 14px;
+  padding: 18px 32px;
+ text-decoration: none;
+}
+
+#p-categories li a.bg-color {color: #e34440!important;}
+
+#p-categories .lev2 {
+  position: absolute;
+  left: 0;
+  width: 1200px;
+  padding: 15px;
+  border-top: 0;
+  z-index: 10;
+  background-color: #fff;
+  border:1px solid #e3e0e0;
+  border-top: none;
+  text-align: left;
+}
+li.main-cat>a:first-child{
+        font-family: Helvetica, sans-serif !important;
+}
+.lev2 .group>li>a{
+    font-weight: bold;
+    text-decoration: underline !important;
+}
+.lev2 >li>a{
+    font-weight: bold;
+    text-decoration: underline !important;
+}
+
+
+#p-categories li a:hover {
+  background: #fff;
+  color: #000!important;
+  text-decoration: none;
+}
+#p-categories .cnt {
+  display: none;
+}
+span.cnt{
+  visibility: hidden;
+}
+.group{
+  float: left;
+  width: 25%;
+}
+
+#p-categories .lev2 ,#p-categories .lev3 {
+  display: none;
+}
+#p-categories li:hover .lev2, #p-categories  li:hover .lev3 {
+  display: block;
+}
+#p-categories .lev2 > li {
+  width: 18%;
+  float: left;
+  display:block;
+  margin: 0 2% 0 0;
+  vertical-align: top;
+  background: none;
+}
+
+#p-categories .lev3{
+    width: 240px;
+    left: 202px;
+    top: 3px;
+  
+}
+.lev1{
+    max-width: 1240px;
+    margin:0 auto;
+}
+#p-categories li:hover .lev2>li>a {
+  color: #168883!important;
+  padding: 10px;
+}
+
+#p-categories .lev2 > li > a.bg-hover {
+  font-weight: bold;
+  padding: 7px 6px;
+}
+#p-categories .lev2 > li > a.bg-hover:hover {
+  text-decoration: none;
+  background: #fff;
+  color: #000!important;
+}
+
+#p-categories .lev3 li {
+  float: none;
+}
+#p-categories .lev3 li a {
+  padding: 11px 10px;
+  color: #000!important;
+}
+#p-categories .lev3 li:hover, #p-categories .lev2 li:hover {
+  background: none;
+  color: inherit!important;
+}
+#p-categories .lev3 li a:hover, #p-categories .lev2 li a:hover {
+  text-decoration: underline;
+  background: none;
+  color: #000!important;
+}
+
+@media screen and (max-width: 1234px) {
+ #p-categories li a {
+        padding: 18px 9px;
+  }
+  #p-categories>li {
+  margin-left: 4.5%;
+}
+}
+  @media screen and (max-width: 1200px){
+#p-categories .lev2{
+  width: 100%;
+  }
+}
+@media screen and (max-width: 1110px) {
+  .k_hdw:after, .k_hdw:before {
+    display: none;
+  }
+}
+@media screen and (max-width: 1045px){
+ .mobile-cat {
+    display: block;
+   
+}
+   .p-mobilehide {
+    display: none;
+  }
+.cs_bullets{
+  display: none;
+ }
+}
+
+
+
